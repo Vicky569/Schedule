@@ -1,0 +1,39 @@
+body{
+
+    background-image: url(1.jpg);
+    opacity:0.8;
+}
+table {
+    border: 5px solid red;
+    margin: 20px auto;
+
+}
+td,tr{
+    border: 1px solid red;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+}
+
+td {
+     color:white;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+}
+td:hover{
+    background-color:grey;
+    cursor:pointer;
+
+}
+
+td:active{
+    background-color:yellow;
+
+}
